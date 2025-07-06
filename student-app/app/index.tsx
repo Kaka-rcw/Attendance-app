@@ -86,7 +86,7 @@ export default function Index() {
 
 const styles = StyleSheet.create({
   bg: {
-    backgroundColor: "990088",
+    backgroundColor: "#880088",
     width: "100%",
     height: "100%",
     alignItems: "center",
